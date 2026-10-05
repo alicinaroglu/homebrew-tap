@@ -1,8 +1,8 @@
 cask "nabiz" do
-  version "1.0"
-  sha256 "cbf31b5ed89db4c54b0f4e4f5c1fd09547c59dd1cf27961e77ee37c449bdc89f"
+  version "1.1"
+  sha256 "fe4856f1e1af412749704ac7abf8f16f4f7715520f24a76eb970aa058a946af3"
 
-  url "https://github.com/alicinaroglu/nabiz/releases/download/v#{version}/Nabiz-#{version}.zip"
+  url "https://github.com/alicinaroglu/nabiz/releases/download/v#{version}/Nabiz.dmg"
   name "Nabız"
   desc "Menu bar monitor for CPU, memory, disk and temperature, built for developers"
   homepage "https://alicinaroglu.github.io/nabiz/"
