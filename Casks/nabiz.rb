@@ -1,6 +1,6 @@
 cask "nabiz" do
-  version "1.1.2"
-  sha256 "25f53e589cd2b98da62dff14715be3db34f7287f0a3e22ce09489de84c8848e7"
+  version "1.2"
+  sha256 "c23049dd40d92b3deadcbf6a9a4bfa13736aeaf179a7827504220840b8b6f069"
 
   url "https://github.com/alicinaroglu/nabiz/releases/download/v#{version}/Nabiz.dmg"
   name "Nabız"
